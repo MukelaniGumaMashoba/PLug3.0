@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="button2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="button1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        /9j/4AAQSkZJRgABAQEAAAAAAAD/2wBDAAkGBw0NCg0ICA0KBwgHDQ0HBwcHCA8ICQcNFREWFhURExMY
+        HSggGBolJx8fITEhJSkrLi4uFx8zODMsNygtLiv/2wBDAQoKCg0NDQ8NDQ8rGRUZKysrLS0tLTctLS03
+        KysrKystNysrKysrKy0rKysrKy0rKysrKysrKysrKysrKysrKyv/wAARCACyARsDASIAAhEBAxEB/8QA
+        GQAAAwEBAQAAAAAAAAAAAAAAAAECAwQG/8QAGhABAQEBAQEBAAAAAAAAAAAAAAECERITA//EABkBAQEB
+        AQEBAAAAAAAAAAAAAAABAgMFBP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A9Rj8
+        2+MKxhtjD4bXpYnOWucKzhpMoIzlrMqzlecoynOWkyrOVzKIiZVMrmVTKIz8n5aTKvIjLyflr5HkTWXk
+        /LXyPIay8jy18jyDLyPLXyPIMvJeW3C8gyuSuW1ymwGNym5b8TcjUYXKLl0XKfKtMLlFy6LlFyLHPcpu
+        XRcpuVac9ym4dFym5FcusM/m7LlHhdVGcNs5POWucoynOWmcqmVzIlTMtM5VnK5lGUzK5lUyuZRi1Eyq
+        ZXMqmRGcyri5k+CajyONOH5E1n5Hlp5HBNZ8HGnkuBqODi+Dgaz4ONOFwVnwuNeFYKxsTY2sTwVjcpsb
+        WFcjUY3KLlvYmxWowuU3LexFyNsbkrltclcqrC5T5b2J8iozlrnJZjbMRkplecqmVTIxSmWkyJGkiM0s
+        xcyJFzJrFTIripD4ms6nh8VIfBESHxRiajg4sBqODixwNR5LjThcFRwuNOECOFxfC4LrOwuNCsNajKwr
+        GlhWLrUZWJuWthWDUrHibltYmwalZWJsbWJsVpjcp41sTwVOI1zEZjXKM1WYuQsriaxTzFSCKgzTkXEx
+        cHOmYAyADAjAEAAAAACAApAAUEBQJKiFTS4ohpNSuwhUWJaVNVqVFiLGlTRuM7E8XSGmeWuWWWuRK0i4
+        jK4jFXFRMUMU4uIODFXDTDEMACAdIBh9NI6GKLpdHQwyBWimXS6QH0dICgAhQRkKVKikqipp9TaNQqjS
+        qijcKp6dSNxGWuWOa1zRmtctIyy0gxVxUTDGFRSTMZOVXUHKmJiwkCH0dIhVdLpdLoYroT0dDFdLpAMM
+        EDFAILimRdIMVaVpdK0XAVpWptGpDtTaVqbRqQ7UWi1No3ILU9FqOjUh5a5ZZa5ac60i4iLiMqyqFDGF
+        QyhiGCNEAAAAAAAQGCAoMgAAAFSFIU+p6E9Fw7S6VpdGsFqei1NGpBam0WpVo7Weqq1FGoVqenanorbM
+        aZRlplXFeVxOVwZqoqFDRk4YMQAQxAOGBC4DICBgUgABAAUVNAFK1Np1I1BakyFIrRSGoRU00aK1NNNF
+        Kpp0qLEUlVKq6ctIjLXI4qi5ExcGKcVExURkzKGIYBiAAAAAAIwBEYFIjIVJKsTRU0lVI1E0lENJpKsI
+        WJKqTRpFKrqaKixNaJsFRYldIV0ZaZZZaZVwrXKoiVcqM1UUmKGTEAEOGQEUCMQAAARgCIwKRGBUpqyF
+        RwuKsIaTxNXSosqKVVUo0mkqkNRKbFpFSVUmq0mpXUg0y0zWGdNc1XKtpVSs5VRGbGspyoipRlZolXBD
+        AHRDMugQwRwQAAAOAAXCUQpEdIUk2KKoqUqqaNRNSqpG4VI6kaBAqKVqaaaNCo6drPqqrDWAK5VpleQE
+        ZWqGBmqjTAAzSoAEEMAgDhgQAAQAAAVMAmkAjUFTQBU1FMDURSAGyqaANQqmgDUTU0BVTWYAr//Z
+</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Dear Sir/Madam,
+My name is Thabo, I am 20 years old and a student a [] student at the University of Johannesburg. Through this motivational letter, I would like to put forward my candidacy for funding.
+I matriculated in 2019 at the [school name] in Groblersdal and obtained an average of 75%. I received admission into UJ in January 2022 into Computer Science. Even though I have been reluctant many times to follow this course, as it is regarded as having a large workload, I have pushed through the past 10 months, and I have made it possible thanks to my passion, commitment and hard work in software development and information systems.
+My interest in computer science began around three years ago and I have since then learned small pieces of codes from several languages through the Harvard lectures that are available online freely as well as through other resources. For me, working on computer code is my way of being creative, since I find it difficult to be creative in more common ways such as drawing 
+Furthermore, in June 2021, I have participated in a hackathon for a week at GEEKCULCHA. That week of work experience was very useful as it enabled me to deepen my understanding of computer science. It was an excellent opportunity to gain work experience in my chosen field of Computer Science. I learnt that it is very important to take initiative whilst working in a team, but also that, as a leader, you must not expect the rest of the team to do all the work on their own.
+In regard to studying at UJ, I seek to combine all the knowledge I will gather over the years and try to deepen my understanding of computer science and engineering. I have decided to go down this route which contains more software compared to hardware, because of my greater interest in software engineering combined with my ability to solve problems and the joy I take in doing so. I feel that this is my driving passion that will allow me to succeed during the years that I will be studying at the UJ.
+Receiving funding would help me reach not only my academic goals but my end career goals as well, and I am highly determined to use this opportunity to my best advantage and reaching my greatest academic capabilities. 
+Kind Regards
+Kind Regards</value>
+  </data>
+</root>
